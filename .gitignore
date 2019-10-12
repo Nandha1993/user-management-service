@@ -113,11 +113,13 @@ tmp/
 *~.nib
 *.cmd
 *.md
+*.mvn
 local.properties
 .settings/
 .loadpath
 .recommenders
-
+.mvn
+.mvn/
 # External tool builders
 .externalToolBuilders/
 
