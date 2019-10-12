@@ -111,6 +111,8 @@ tmp/
 *.bak
 *.swp
 *~.nib
+*.cmd
+*.md
 local.properties
 .settings/
 .loadpath
