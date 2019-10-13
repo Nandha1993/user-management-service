@@ -23,6 +23,14 @@ import org.springframework.web.bind.annotation.RestController;
 import com.user.management.springboot.exceptionHandling.ResourceNotFoundException;
 import com.user.management.springboot.model.User;
 
+/**
+ * 
+ * @author NandhaKumar KR
+ *
+ */
+
+//The data resource is exposed in the form of service using REST API  
+
 @RestController
 @RequestMapping("/api/v1")
 public class UserController {

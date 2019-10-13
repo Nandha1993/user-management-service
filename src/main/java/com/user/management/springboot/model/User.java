@@ -16,6 +16,14 @@ import org.springframework.data.annotation.LastModifiedBy;
 import org.springframework.data.annotation.LastModifiedDate;
 import org.springframework.data.jpa.domain.support.AuditingEntityListener;
 
+/**
+ * 
+ * @author NandhaKumar KR
+ *
+ */
+
+//User model or domain class 
+
 @Entity
 @Table(name = "users")
 @EntityListeners(AuditingEntityListener.class)

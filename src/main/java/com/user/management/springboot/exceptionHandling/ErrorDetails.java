@@ -1,6 +1,13 @@
 package com.user.management.springboot.exceptionHandling;
 
 import java.util.Date;
+/**
+ * 
+ * @author Nandha
+ *
+ */
+
+// Exception details
 
 public class ErrorDetails {
   
